@@ -1,4 +1,4 @@
-![MasterHead](https://64.media.tumblr.com/cd34a1bb6047b54d36a8204998c772ff/tumblr_pul9fipFgY1wnjxxqo1_1280.png)
+![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/df6f9861-e02e-43a3-bfc8-f9a53f6e3b36/dg8zczz-99f2be43-189a-4d81-b1a7-19d6e6d47ca5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RmNmY5ODYxLWUwMmUtNDNhMy1iZmM4LWY5YTUzZjZlM2IzNlwvZGc4emN6ei05OWYyYmU0My0xODlhLTRkODEtYjFhNy0xOWQ2ZTZkNDdjYTUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5CP0Su4qTaSAFGAkwKMdAOXF-vitN5NcVR_JCiieof0)
 <h1 align="center">Hi 👋, I'm Adrija Debnath</h1>
 <h3 align="center">Senior year at NSEC-Kolkata, pursuing B.Tech in CSBS.</h3>
 
