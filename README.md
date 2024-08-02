@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/73/94/8a/73948af53b7af678089500374e31feba.png)](https://rishavchanda.io)
+![MasterHead](https://i.pinimg.com/originals/73/94/8a/73948af53b7af678089500374e31feba.png)
 <h1 align="center">Hi 👋, I'm Adrija Debnath</h1>
 <h3 align="center">Senior year at NSEC-Kolkata, pursuing B.Tech in CSBS.</h3>
 
