@@ -1,4 +1,4 @@
-![MasterHead](https://png.pngtree.com/background/20210709/original/pngtree-full-aesthetic-nebula-starry-sky-banner-background-picture-image_916071.jpg)
+![MasterHead](https://64.media.tumblr.com/cd34a1bb6047b54d36a8204998c772ff/tumblr_pul9fipFgY1wnjxxqo1_1280.png)
 <h1 align="center">Hi 👋, I'm Adrija Debnath</h1>
 <h3 align="center">Senior year at NSEC-Kolkata, pursuing B.Tech in CSBS.</h3>
 
