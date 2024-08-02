@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="download.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrija-debnath&label=Profile%20views&color=0e75b6&style=flat" alt="bleedingsorcerer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrija-debnath&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 - 🌱 I’m currently learning **DSA with C++**
 
