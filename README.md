@@ -1,7 +1,8 @@
 [![MasterHead](https://i.pinimg.com/originals/73/94/8a/73948af53b7af678089500374e31feba.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Adrija Debnath</h1>
 <h3 align="center">Senior year at NSEC-Kolkata, pursuing B.Tech in CSBS.</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/paU7ZLSP3b0AAAAC/evrima-server.gif">
+
+<img align="right" alt="Coding" width="400" src="download.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrija-debnath&label=Profile%20views&color=0e75b6&style=flat" alt="bleedingsorcerer" /> </p>
 
