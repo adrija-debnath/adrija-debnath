@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Adrija Debnath</h1>
 <h3 align="center">Senior year at NSEC-Kolkata, pursuing B.Tech in CSBS.</h3>
 
-<img align="right" alt="Coding" width="400" src="download.gif">
+<img align="right" alt="Coding" width="610" src="https://steamuserimages-a.akamaihd.net/ugc/945094571616867748/680E4979CC75A2310664E0883F3F3FC6CBECA3BE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrija-debnath&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
